@@ -1,0 +1,13 @@
+﻿bảng chữ cái tiếng Việt
+a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u ư v x y
+
+danh sách các phụ âm đầu trong tiếng Việt
+b c k d gi r g gh h l m n p qu s t v x ch tr ph th kh ng ngh nh
+
+danh sách các nguyên âm trong tiếng Việt
+a ă â i y u ư e ê o ô ơ
+iê ươ oe ai au ua ưa ưu âu uâ ia ui ưi iu êu oi ôi ơi ay ây uy uô oa oă ao eo uê uơ
+uya, ươi, uyê, iêu, oai, oay, uây, uôi, ươu
+
+danh sách các âm cuối trong tiếng Việt
+p t c ch m n ng nh u o i y a

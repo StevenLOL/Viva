@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Sentences>
+  <Sentence>
+    <Type>SMS_RECEIVER_REQUIRED</Type>
+    <Content>Mời bạn nhập vào số điện thoại hoặc tên người nhận</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_RECEIVER_REQUIRED</Type>
+    <Content>Nhập vào số điện thoại hoặc tên người nhận</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_CONTENT_REQUIRED</Type>
+    <Content>Mời bạn nhập vào nội dung</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_CONTENT_REQUIRED</Type>
+    <Content>Bạn hãy nhập vào nội dung</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_CONFIRM</Type>
+    <Content>Bạn có muốn gửi tin nhắn không</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_CONFIRM</Type>
+    <Content>Bạn có muốn gửi tin cho {RECEIVER}, nội dung {CONTENT} không</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_SUCCESS</Type>
+    <Content>Gửi tin nhắn thành công</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_SUCCESS</Type>
+    <Content>Đã gửi tin nhắn</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_ERROR</Type>
+    <Content>Gửi tin nhắn lỗi</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_SEND_ERROR</Type>
+    <Content>Không thể gửi tin nhắn , hãy kiểm tra lại tài khoản của bạn</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_READCONTENT_CONFIRM</Type>
+    <Content>Bạn vừa nhận tin nhắn mới từ {SENDER}, bạn có muốn đọc tin nhắn này không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_READCONTENT_CONFIRM</Type>
+    <Content>Có tin nhắn mới từ {SENDER}, bạn có muốn đọc tin nhắn này không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_READCONTENT_ERROR</Type>
+    <Content>Không thể đọc nội dung tin nhắn.</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_REPLY_CONFIRM</Type>
+    <Content>bạn có muốn trả lời tin nhắn này không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_REPLY_CONFIRM</Type>
+    <Content>bạn có muốn gửi tin nhắn trả lời không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_REPLY_CONFIRM</Type>
+    <Content>bạn có muốn trả lời không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_READCONTENT</Type>
+    <Content>{CONTENT}</Content>
+  </Sentence>
+  <Sentence>
+    <Type>SMS_READCONTENT</Type>
+    <Content>nội dung tin nhắn , {CONTENT}</Content>
+  </Sentence>
+  <Sentence>
+    <Type>CONFIRM_REDO</Type>
+    <Content>bạn có muốn thực hiện lại không?</Content>
+  </Sentence>
+  <Sentence>
+    <Type>CONFIRM_REDO</Type>
+    <Content>bạn có muốn nhập lại không?</Content>
+  </Sentence>
+   <Sentence>
+    <Type>WEATHER_GETINFO_ERROR</Type>
+    <Content>Không thể lấy thông tin thời tiết.</Content>
+  </Sentence>
+   <Sentence>
+    <Type>GOLD_GETINFO_ERROR</Type>
+    <Content>Không thể lấy thông tin giá vàng.</Content>
+  </Sentence>
+   <Sentence>
+    <Type>EXCHANGE_GETINFO_ERROR</Type>
+    <Content>Không thể lấy thông tin tỉ giá.</Content>
+  </Sentence>
+  <Sentence>
+    <Type>CANNOT_UNDERSTAND</Type>
+    <Content>Rất tiếc, tôi không hiểu yêu cầu của bạn.</Content>
+  </Sentence>
+</Sentences>

@@ -1,0 +1,80 @@
+Id	Type	Char
+{PAD}	
+NG	CSN	ngh
+NG	CSN	ng
+th	CSU	th
+tr	CSU	tr
+c	CSU	ch
+NJ	CSN	nh
+f	CFU	ph
+X	CFU	kh
+z	CFV	gi
+z	CFV	d
+G	CFV	gh
+G	CFV	g
+k	CSU	c
+k	CSU	q
+k	CSU	k
+d	CSV	đ
+t	CSU	t
+b	CSV	b
+m	CSN	m
+n	CSN	n
+l	CFL	l
+s	CFU	x
+ss	CFU	s
+h	CFU	h
+v	CFV	v
+zr	CFV	r
+p	CSU	p
+{EOPAD}	
+{BNA}	
+w	SV	o
+w	SV	u
+{EOBNA}	
+{NA}	
+M7	VM	ươ
+M7	VM	ưa
+uo	VB	ua
+uo	VB	uô
+ie	VF	iê
+ie	VF	ia
+ie	VF	yê
+ie	VF	ya
+M	VM	ư
+7	VM	ơ
+o	VB	ô
+e	VF	ê
+E	VF	e
+7X	VMC	â
+aX	VMC	ă
+a	VM	a
+EX	VFC	a
+aX	VMC	a
+O	VBC	oo
+O	VB	o
+OX	VBC	o
+u	VB	u
+i	VF	i
+i	VF	y
+{EONA}	
+{AC}	
+p	CSU	p
+t	CSU	t
+k	CSU	c
+k	CSU	ch
+m	CSN	m
+n	CSN	n
+NG	CSN	ng
+NG	CSN	nh
+w	SV	o
+w	SV	u
+j	SV	i
+j	SV	y
+{EOAC}	
+CSU	Consonant Stop Unvoiced
+CSV	Consonant Stop Voiced
+CSN	Consonant Stop Nasal
+CFU	Consonant Fricative Unvoiced
+CFV	Consonant Fricative Voiced
+CFL	Consonant Fricative Lateral

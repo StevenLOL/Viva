@@ -1,0 +1,80 @@
+﻿---- các câu mệnh lệnh ----
+tôi muốn gửi tin nhắn tới số điện thoại 0123456789 với nội dung xin chào bạn
+tôi muốn gửi tin nhắn đến số điện thoại 0123456789
+tôi muốn gửi tin nhắn
+gửi tin nhắn tới số điện thoại 0123456789 với nội dung là xin chào bạn
+gửi tin nhắn đến số điện thoại 0123456789
+gửi tới số điện thoại 0123456789 tin nhắn có nội dung là
+gửi tin nhắn
+giúp tôi gửi tin nhắn tới số thuê bao 0123456789, nội dung rằng
+nhắn tin tới số 0123456789 ngay lập tức
+nhắn tin đến số 0123456789
+nhắn tin đến 0123456789 nội dung xin chào bạn
+hãy gửi giúp tôi một tin nhắn đến số 0123456789 với nội dung là
+nội dung tin nhắn
+bạn hãy đọc số điện thoại người nhận
+bạn hãy đọc nội dung tin nhắn
+---- Các câu hội thoại ----
+U:gửi tin nhắn
+V:nhập vào số điện thoại người nhận
+U:0123 456 789
+V:nhập vào nội dung
+U:xin chào bạn
+V:gửi tin nhắn đến số 0123 456 789 nội dung xin chào bạn. bạn có muốn gửi tin nhắn không?
+U:có
+V:gửi tin nhắn thành công
+
+U:tôi muốn gửi tin nhắn đến Duy Bình
+V:không tìm thấy Duy Bình trong danh bạ, bạn hãy nhập lại số hoặc tên người nhận
+U:0123 456 789
+V:nhập nội dung bạn muốn gửi
+U:xin chào bạn
+V:đã gửi tin nhắn tới 0123 456 789
+V:bạn muốn tiếp tục không?
+U:có
+V:bạn muốn gửi cho ai?
+U:Duy Bình
+V:nội dung tin nhắn
+U:bạn đang làm gì thế?
+V:gửi tin nhắn đến Duy Bình, nội dung bạn đang làm gì. Bạn có muốn thực hiện không?
+U:không
+V:bạn có muốn thực hiện lại không
+U:có
+V:nhập lại người nhận
+U:Anh Bình
+V:nhập lại nội dung
+U:anh đang ở đâu
+V:gửi tin nhắn đến Anh Bình, nội dung anh đang ở đâu. Bạn có muốn thực hiện không?
+U:tất nhiên là có
+V:đã gửi xong
+
+U:nhắn tin tới Anh Bình nội dung, hôm nay anh có bận không?
+V:không tìm thấy Anh Bình trong danh bạ,  bạn hãy nhập lại số hoặc tên người nhận
+U:Bình
+V:Tìm thấy 3 liên hệ tên Bình trong danh bạ, bạn hãy lựa chọn
+U:Bình bách khoa
+V:gửi tin nhắn đến Bình bách khoa, nội dung hôm nay anh có bận không. Bạn có muốn gửi tin nhắn này không?
+U:gửi đi
+V:có lỗi xảy ra, không thể kết nối mạng, bạn có muốn thử gửi lại không?
+U:có
+V:không thể gửi tin nhắn, tài khoản của bạn không đủ để gửi tin nhắn, hãy nạp tiền và thử lại
+U:ok
+
+U:tôi muốn gửi tin nhắn
+V:bạn muốn gửi cho ai
+U:vợ yêu
+V:viva không tìm thấy Vợ Yêu trong danh bạ, hãy nhập vào tên chính xác hoặc số điện thoại người nhận
+U:0123 456 789
+V:bạn muốn nhắn nội dung gì?
+U:tối nay anh về muộn, em ăn cơm trước nhé
+V:bạn chắc chắn muốn gửi tin nhắn chứ?
+U:chắc chắn
+V:không thể gửi tin nhắn, số điện thoại bạn nhập dường như không tồn tại, bạn có muốn nhập lại người nhận không?
+U:Có
+V:hãy nhập chính xác nhé
+U:0123 456 978
+V:gửi tin nhắn tới số 0123 456 978 thành công
+
+
+
+

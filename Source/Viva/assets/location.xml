@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<Province>
+    <Display>Hà Nội</Display>
+    <Utile>Hanoi</Utile>
+</Province>
+
+<Province>
+    <Display>hà nội</Display>
+    <Utile>Hanoi</Utile>
+</Province>
+
+<Province>
+    <Display>Hà Tây</Display>
+    <Utile>Hanoi</Utile>
+</Province>
+<Province>
+    <Display>Bắc Ninh</Display>
+    <Utile>Bac Ninh</Utile>
+</Province>
+<Province>
+    <Display>Hưng Yên</Display>
+    <Utile>Hanoi</Utile>
+</Province>
+<Province>
+    <Display>Bắc Giang</Display>
+    <Utile>Bac Giang</Utile>
+</Province>
+<Province>
+    <Display>Bắc Cạn</Display>
+    <Utile>Bac Can</Utile>
+</Province>
+<Province>
+    <Display>Cao Bằng</Display>
+    <Utile>Cao Bang</Utile>
+</Province>
+<Province>
+    <Display>Điện Biên</Display>
+    <Utile>Dien Bien Phu</Utile>
+</Province>
+<Province>
+    <Display>Hải Dương</Display>
+    <Utile>Hai Duong</Utile>
+</Province>
+<Province>
+    <Display>Hà Giang</Display>
+    <Utile>Ha Giang</Utile>
+</Province>
+<Province>
+    <Display>Hà Nam</Display>
+    <Utile>Phu Ly</Utile>
+</Province>
+<Province>
+    <Display>hải phòng</Display>
+    <Utile>Haiphong</Utile>
+</Province>
+<Province>
+    <Display>Hòa Bình</Display>
+    <Utile>Hoa Binh</Utile>
+</Province>
+<Province>
+    <Display>Lai Châu</Display>
+    <Utile>Lao Cai</Utile>
+</Province>
+<Province>
+    <Display>Lào Cai</Display>
+    <Utile>Lao Cai</Utile>
+</Province>
+<Province>
+    <Display>Lạng Sơn</Display>
+    <Utile>Lang Son</Utile>
+</Province>
+<Province>
+    <Display>Nam Định</Display>
+    <Utile>Nam Dinh</Utile>
+</Province>
+<Province>
+    <Display>Ninh Bình</Display>
+    <Utile>Ninh Binh</Utile>
+</Province>
+<Province>
+    <Display>Phú Thọ</Display>
+    <Utile>Viet Tri</Utile>
+</Province>
+<Province>
+    <Display>Quảng Ninh</Display>
+    <Utile>Cam Pha Mines</Utile>
+</Province>
+<Province>
+    <Display>Sơn La</Display>
+    <Utile>Son La</Utile>
+</Province>
+<Province>
+    <Display>Thái Bình</Display>
+    <Utile>Thai Binh</Utile>
+</Province>
+<Province>
+    <Display>Thái Nguyên</Display>
+    <Utile>Thai Nguyen</Utile>
+</Province>
+<Province>
+    <Display>Tuyên Quang</Display>
+    <Utile>Tuyen Quang</Utile>
+</Province>
+<Province>
+    <Display>Vĩnh Phúc</Display>
+    <Utile>Vinh Yen</Utile>
+</Province>
+<Province>
+    <Display>Yên Bái</Display>
+    <Utile>Yen Bai</Utile>
+</Province>
+<Province>
+    <Display>Đà Nẵng</Display>
+    <Utile>Da Nang</Utile>
+</Province>
+
+<Province>
+    <Display>đà nẵng</Display>
+    <Utile>Da Nang</Utile>
+</Province>
+
+<Province>
+    <Display>Bình Định</Display>
+    <Utile>Qui Nhon</Utile>
+</Province>
+<Province>
+    <Display>Đắc Lắc</Display>
+    <Utile>Buon Ma Thuot</Utile>
+</Province>
+<Province>
+    <Display>Đắc Nông</Display>
+    <Utile>Buon Ma Thuot</Utile>
+</Province>
+<Province>
+    <Display>Gia Lai</Display>
+    <Utile>14.040673,108.237305</Utile>
+</Province>
+<Province>
+    <Display>Hà Tĩnh</Display>
+    <Utile>Ha Tinh</Utile>
+</Province>
+<Province>
+    <Display>Khánh Hòa</Display>
+    <Utile>Nha Trang</Utile>
+</Province>
+<Province>
+    <Display>Kon Tum</Display>
+    <Utile>Kon Tum</Utile>
+</Province>
+<Province>
+    <Display>Nghệ An</Display>
+    <Utile>Vinh</Utile>
+</Province>
+<Province>
+    <Display>Phú Yên</Display>
+    <Utile>Tuy-Hoa</Utile>
+</Province>
+<Province>
+    <Display>Quảng Bình</Display>
+    <Utile>Dong Hoi</Utile>
+</Province>
+<Province>
+    <Display>Quảng Nam</Display>
+    <Utile>Tam Ky</Utile>
+</Province>
+<Province>
+    <Display>Quảng Ngãi</Display>
+    <Utile>Quang Ngai</Utile>
+</Province>
+<Province>
+    <Display>Quảng Trị</Display>
+    <Utile>Dong Ha</Utile>
+</Province>
+<Province>
+    <Display>Thanh Hóa</Display>
+    <Utile>Thanh Hoa</Utile>
+</Province>
+<Province>
+    <Display>Thừa Thiên Huế</Display>
+    <Utile>Hue</Utile>
+</Province>
+<Province>
+    <Display>Hồ Chí Minh</Display>
+    <Utile>Ho Chi Minh</Utile>
+</Province>
+<Province>
+    <Display>sài gòn</Display>
+    <Utile>Ho Chi Minh</Utile>
+</Province>
+<Province>
+    <Display>An Giang</Display>
+    <Utile>Chau Doc</Utile>
+</Province>
+<Province>
+    <Display>Bà Rịa Vũng Tàu</Display>
+    <Utile>Vung tau</Utile>
+</Province>
+<Province>
+    <Display>Bạc Liêu</Display>
+    <Utile>Bac Lieu</Utile>
+</Province>
+<Province>
+    <Display>Bến Tre</Display>
+    <Utile>Ben Tre</Utile>
+</Province>
+<Province>
+    <Display>Bình Dương</Display>
+    <Utile>Bien Hoa</Utile>
+</Province>
+<Province>
+    <Display>Bình Phước</Display>
+    <Utile>Dong Xoai</Utile>
+</Province>
+<Province>
+    <Display>Bình Thuận</Display>
+    <Utile>Phan Thiet</Utile>
+</Province>
+<Province>
+    <Display>Cà Mau</Display>
+    <Utile>Ca Mau</Utile>
+</Province>
+<Province>
+    <Display>Cần Thơ</Display>
+    <Utile>Can Tho</Utile>
+</Province>
+<Province>
+    <Display>Đồng Nai</Display>
+    <Utile>Dong Xoai</Utile>
+</Province>
+<Province>
+    <Display>Đồng Tháp</Display>
+    <Utile>Sa Dec</Utile>
+</Province>
+<Province>
+    <Display>Hậu Giang</Display>
+    <Utile>Can Tho</Utile>
+</Province>
+<Province>
+    <Display>Kiên Giang</Display>
+    <Utile>Rach Gia</Utile>
+</Province>
+<Province>
+    <Display>Lâm Đồng</Display>
+    <Utile>Da Lat</Utile>
+</Province>
+<Province>
+    <Display>Long An</Display>
+    <Utile>Tan An</Utile>
+</Province>
+<Province>
+    <Display>Ninh Thuận</Display>
+    <Utile>Phan Rang-Thap Cham</Utile>
+</Province>
+<Province>
+    <Display>Sóc Trăng</Display>
+    <Utile>Ba-Xuyen</Utile>
+</Province>
+<Province>
+    <Display>Tây Ninh</Display>
+    <Utile>Phu Khuong</Utile>
+</Province>
+<Province>
+    <Display>Tiền Giang</Display>
+    <Utile>Tan An</Utile>
+</Province>
+<Province>
+    <Display>Trà Vinh</Display>
+    <Utile>Tra Vinh</Utile>
+</Province>
+<Province>
+    <Display>Vĩnh Long</Display>
+    <Utile>Vinh Long</Utile>
+</Province>
+</list>

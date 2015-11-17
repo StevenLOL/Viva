@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="server">
+        <item name="s0">Mạng trong MICA</item>
+        <item name="s1">Mạng ngoài MICA</item>
+    </string-array>
+    <string-array name="server_value">
+        <item name="s0">0</item>
+        <item name="s1">1</item>
+    </string-array>
+
+    <string-array name="ReadMessage">
+        <item name="s0">Đọc phản hồi</item>
+        <item name="s1">Không đọc phản hồi</item>
+    </string-array>
+    <string-array name="ReadMessage_value">
+        <item name="s0">0</item>
+        <item name="s1">1</item>
+    </string-array>
+    
+    
+    <string-array name="ReadReceiverMessage">
+        <item name="s0">Thông báo tin nhắn tới</item>
+        <item name="s1">Không thông báo tin nhắn tới</item>
+    </string-array>
+    <string-array name="ReadReceiverMessage_value">
+        <item name="s0">0</item>
+        <item name="s1">1</item>
+    </string-array>
+    
+    
+    <string-array name="topic">
+        <item name="message">Tin nhắn</item>
+        <item name="weather">Thời tiết</item>
+        <item name="conversation">Hội thoại thông thường</item>
+        <item name="information">Truy vấn thông tin</item>
+        
+    </string-array>
+    <string-array name="topic_value">
+        <item name="message">message</item>
+        <item name="weather">weather</item>
+        <item name="conversation">conversation</item>
+        <item name="information">information</item>
+    </string-array>
+    <string-array name="bitrate">
+        <item name="8">8 bits</item>
+        <item name="16">16 bits</item>
+    </string-array>
+    <string-array name="bitrate_value">
+        <item name="8">8</item>
+        <item name="16">16</item>
+    </string-array>
+    <string-array name="samplerate">
+        <item name="44100">44100 Hz</item>
+        <item name="22050">22050 Hz</item>
+        <item name="16000">16000 Hz</item>
+        <item name="11025">11025 Hz</item>
+        <item name="8000">8000 Hz</item>
+    </string-array>
+    <string-array name="samplerate_value">
+        <item name="44100">44100</item>
+        <item name="22050">22050</item>
+        <item name="16000">16000</item>
+        <item name="11025">11025</item>
+        <item name="8000">8000</item>
+    </string-array>
+
+</resources>

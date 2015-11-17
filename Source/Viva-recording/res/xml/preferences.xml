@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="first_category"
+        android:title="Thông tin người nói" >
+        <EditTextPreference
+            android:defaultValue="anonymouse"
+            android:dialogMessage="Nhập tên của bạn"
+            android:dialogTitle="Họ tên"
+            android:key="SPEAKER_NAME"
+            android:summary="Họ tên người nói"
+            android:title="Họ tên" />
+        <EditTextPreference
+            android:defaultValue="30"
+            android:dialogMessage="Nhập tuổi của bạn"
+            android:dialogTitle="Tuổi"
+            android:key="SPEAKER_AGE"
+            android:summary="Tuổi người nói"
+            android:title="Tuổi" />
+        <ListPreference
+            android:defaultValue="male"
+            android:entries="@array/gender"
+            android:entryValues="@array/gender_value"
+            android:key="SPEAKER_GENDER"
+            android:summary="Giới tính người nói"
+            android:title="Giới tính" />
+        <EditTextPreference
+            android:defaultValue="Hà Nội"
+            android:dialogMessage="Nhập vùng miền hiện tại của bạn"
+            android:dialogTitle="Nhập vùng miền"
+            android:key="SPEAKER_LOCATION"
+            android:summary="Vùng miền người nói"
+            android:title="Vùng miền" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="second_category"
+        android:title="Topic" >
+        <ListPreference
+            android:defaultValue="message"
+            android:entries="@array/topic"
+            android:entryValues="@array/topic_value"
+            android:key="TOPIC"
+            android:summary="Chủ đề các câu nói"
+            android:title="Chọn chủ đề" />
+        <EditTextPreference
+            android:defaultValue="0,0,0,0,0,0"
+            android:dialogMessage=""
+            android:dialogTitle="Câu nói hiện tại"
+            android:key="START_INDEXS"
+            android:summary=""
+            android:title="Câu nói hiện tại"
+            android:enabled="true" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="third_category"
+        android:title="Thông số ghi âm" >
+        <ListPreference
+            android:defaultValue="16"
+            android:entries="@array/bitrate"
+            android:entryValues="@array/bitrate_value"
+            android:key="BIT"
+            android:summary="Bits"
+            android:title="Bits" />
+        <ListPreference
+            android:defaultValue="16000"
+            android:entries="@array/samplerate"
+            android:entryValues="@array/samplerate_value"
+            android:key="SAMPLE_RATE"
+            android:summary="Chọn tần số lấy mẫu"
+            android:title="Sample rate" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

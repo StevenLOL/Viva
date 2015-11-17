@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<Province>
+    <Display>Hà Nội</Display>
+    <Utile>21.032757,105.845718</Utile>
+</Province>
+<Province>
+    <Display>Hà Tây</Display>
+    <Utile>21.032757,105.845718</Utile>
+</Province>
+<Province>
+    <Display>Bắc Ninh</Display>
+    <Utile>21.185372,106.057205</Utile>
+</Province>
+<Province>
+    <Display>Hưng Yên</Display>
+    <Utile>20.861378,106.012573</Utile>
+</Province>
+<Province>
+    <Display>Bắc Giang</Display>
+    <Utile>21.294493,106.186123</Utile>
+</Province>
+<Province>
+    <Display>Bắc Cạn</Display>
+    <Utile>22.151796,105.827866</Utile>
+</Province>
+<Province>
+    <Display>Cao Bằng</Display>
+    <Utile>22.663997,106.267447</Utile>
+</Province>
+<Province>
+    <Display>Điện Biên</Display>
+    <Utile>21.414719,103.034935</Utile>
+</Province>
+<Province>
+    <Display>Hải Dương</Display>
+    <Utile>20.938996,106.314869</Utile>
+</Province>
+<Province>
+    <Display>Hà Giang</Display>
+    <Utile>22.812897,104.978485</Utile>
+</Province>
+<Province>
+    <Display>Hà Nam</Display>
+    <Utile>20.607078,105.919189</Utile>
+</Province>
+<Province>
+    <Display>Hải Phòng</Display>
+    <Utile>20.868115,106.678619</Utile>
+</Province>
+<Province>
+    <Display>Hòa Bình</Display>
+    <Utile>20.838278,105.338974</Utile>
+</Province>
+<Province>
+    <Display>Lai Châu</Display>
+    <Utile>22.393253,103.255005</Utile>
+</Province>
+<Province>
+    <Display>Lào Cai</Display>
+    <Utile>22.317049,104.194336</Utile>
+</Province>
+<Province>
+    <Display>Lạng Sơn</Display>
+    <Utile>21.859906,106.758957</Utile>
+</Province>
+<Province>
+    <Display>Nam Định</Display>
+    <Utile>20.422508,106.167927</Utile>
+</Province>
+<Province>
+    <Display>Ninh Bình</Display>
+    <Utile>20.26735,105.974121</Utile>
+</Province>
+<Province>
+    <Display>Phú Thọ</Display>
+    <Utile>21.437091,105.230484</Utile>
+</Province>
+<Province>
+    <Display>Quảng Ninh</Display>
+    <Utile>21.514407,107.182617</Utile>
+</Province>
+<Province>
+    <Display>Sơn La</Display>
+    <Utile>21.359734,103.914185</Utile>
+</Province>
+<Province>
+    <Display>Thái Bình</Display>
+    <Utile>20.452428,106.337013</Utile>
+</Province>
+<Province>
+    <Display>Thái Nguyên</Display>
+    <Utile>21.601258,105.825806</Utile>
+</Province>
+<Province>
+    <Display>Tuyên Quang</Display>
+    <Utile>21.822301,105.211258</Utile>
+</Province>
+<Province>
+    <Display>Vĩnh Phúc</Display>
+    <Utile>21.315603,105.607452</Utile>
+</Province>
+<Province>
+    <Display>Yên Bái</Display>
+    <Utile>21.729524,104.898834</Utile>
+</Province>
+<Province>
+    <Display>Đà Nẵng</Display>
+    <Utile>16.059341,108.216019</Utile>
+</Province>
+<Province>
+    <Display>Bình Định</Display>
+    <Utile>13.81541,109.223328</Utile>
+</Province>
+<Province>
+    <Display>Đắc Lắc</Display>
+    <Utile>12.692593,108.040924</Utile>
+</Province>
+<Province>
+    <Display>Đắc Nông</Display>
+    <Utile>12.377563,107.770386</Utile>
+</Province>
+<Province>
+    <Display>Gia Lai</Display>
+    <Utile>14.040673,108.237305</Utile>
+</Province>
+<Province>
+    <Display>Hà Tĩnh</Display>
+    <Utile>18.343772,105.906658</Utile>
+</Province>
+<Province>
+    <Display>Khánh Hòa</Display>
+    <Utile>12.299752,109.195862</Utile>
+</Province>
+<Province>
+    <Display>Kon Tum</Display>
+    <Utile>14.386797,108.005219</Utile>
+</Province>
+<Province>
+    <Display>Nghệ An</Display>
+    <Utile>19.373341,104.864502</Utile>
+</Province>
+<Province>
+    <Display>Phú Yên</Display>
+    <Utile>13.134316,109.290619</Utile>
+</Province>
+<Province>
+    <Display>Quảng Bình</Display>
+    <Utile>17.488221,106.601715</Utile>
+</Province>
+<Province>
+    <Display>Quảng Nam</Display>
+    <Utile>15.623037,108.498917</Utile>
+</Province>
+<Province>
+    <Display>Quảng Ngãi</Display>
+    <Utile>15.194085,108.720703</Utile>
+</Province>
+<Province>
+    <Display>Quảng Trị</Display>
+    <Utile>16.820973,107.087173</Utile>
+</Province>
+<Province>
+    <Display>Thanh Hóa</Display>
+    <Utile>19.813222,105.777054</Utile>
+</Province>
+<Province>
+    <Display>Thừa Thiên Huế</Display>
+    <Utile>16.465884,107.585163</Utile>
+</Province>
+<Province>
+    <Display>Hồ Chí Minh</Display>
+    <Utile>10.90883,106.633301</Utile>
+</Province>
+<Province>
+    <Display>An Giang</Display>
+    <Utile>10.666006,105.133667</Utile>
+</Province>
+<Province>
+    <Display>Bà Rịa Vũng Tàu</Display>
+    <Utile>10.692996,107.259521</Utile>
+</Province>
+<Province>
+    <Display>Bạc Liêu</Display>
+    <Utile>9.272911,105.752335</Utile>
+</Province>
+<Province>
+    <Display>Bên Tre</Display>
+    <Utile>10.223031,106.452026</Utile>
+</Province>
+<Province>
+    <Display>Bình Dương</Display>
+    <Utile>11.264612,106.638794</Utile>
+</Province>
+<Province>
+    <Display>Bình Phước</Display>
+    <Utile>12.007085,106.732178</Utile>
+</Province>
+<Province>
+    <Display>Bình Thuận</Display>
+    <Utile>11.027472,108.27301</Utile>
+</Province>
+<Province>
+    <Display>Cà Mau</Display>
+    <Utile>9.213271,105.150146</Utile>
+</Province>
+<Province>
+    <Display>Cần Thơ</Display>
+    <Utile>10.049318,105.785294</Utile>
+</Province>
+<Province>
+    <Display>Đồng Nai</Display>
+    <Utile>11.199957,107.199097</Utile>
+</Province>
+<Province>
+    <Display>Đồng Tháp</Display>
+    <Utile>10.467556,105.632172</Utile>
+</Province>
+<Province>
+    <Display>Hậu Giang</Display>
+    <Utile>9.838979,105.652771</Utile>
+</Province>
+<Province>
+    <Display>Kiên Giang</Display>
+    <Utile>10.109486,105.172119</Utile>
+</Province>
+<Province>
+    <Display>Lâm Đồng</Display>
+    <Utile>11.978875,108.461151</Utile>
+</Province>
+<Province>
+    <Display>Long An</Display>
+    <Utile>10.876465,106.248779</Utile>
+</Province>
+<Province>
+    <Display>Ninh Thuận</Display>
+    <Utile>11.596414,108.992615</Utile>
+</Province>
+<Province>
+    <Display>Sóc Trăng</Display>
+    <Utile>9.736128,105.864258</Utile>
+</Province>
+<Province>
+    <Display>Tây Ninh</Display>
+    <Utile>11.379744,106.116257</Utile>
+</Province>
+<Province>
+    <Display>Tiền Giang</Display>
+    <Utile>10.520219,106.265259</Utile>
+</Province>
+<Province>
+    <Display>Trà Vinh</Display>
+    <Utile>9.96344,106.333237</Utile>
+</Province>
+<Province>
+    <Display>Vĩnh Long</Display>
+    <Utile>10.260195,105.956955</Utile>
+</Province>
+</list>

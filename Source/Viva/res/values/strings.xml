@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viva</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Viva</string>
+	<string name="button_start">Bắt đầu</string>
+	<string name="title_activity_InputController">Nhập vào câu nói</string>
+	<string name="dialog_recording_title">Đang ghi âm...</string>
+</resources>

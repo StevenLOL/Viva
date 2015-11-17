@@ -1,0 +1,23 @@
+a : p t c ch m n ng nh u o i y zero
+ă : p t c m n ng
+â : p t c m n ng u y
+i : p t ch m n nh u a zero
+y : zero
+u : p t c m n ng i a zero
+ư : p t c m n ng u i a zero
+e : p t c m n ng o zero
+ê : p t c ch m n nh u zero
+o : p t c m n ng i zero
+ô : p t c m n ng i zero
+ơ : p t c m n ng i zero
+iê : p t c m n ng u
+ươ : p t c m n ng u i
+oe : t n o zero
+uâ : t n ng y
+uy : t ch n nh u a zero
+uô : p t c m n ng i
+oa : p t c ch m n ng nh i y zero
+oă : p t c m n ng
+uê : nh ch zero
+uơ : zero
+uyê : t n

@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/txtContent"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtContent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:text="Send" />
+
+    <TextView
+        android:id="@+id/lblResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/padding_medium"
+        android:text="Result"
+        tools:context=".MainActivity" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/txtServer"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/lblResult"
+        android:layout_marginTop="80dp"
+        android:ems="10"
+        android:text="113.160.41.218" />
+
+    <EditText
+        android:id="@+id/txtPort"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtServer"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@id/txtServer"
+        android:ems="10"
+        android:text="1570" />
+
+</RelativeLayout>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<VIVAModules>
+	<Module>
+		<ModuleCode>SMS</ModuleCode>
+		<ModuleName>Tin nhắn</ModuleName>
+		<Functions>
+			<Function>
+				<FunctionCode>SENDING_SMS</FunctionCode>
+				<Activity>com.mica.viva.controller.sms.SendingSms</Activity>
+				<FunctionName>Gửi tin nhắn</FunctionName>
+				<Parameters>
+					<Parameter>
+						<Key>RECEIVER</Key>
+						<Name>Số điện thoại người nhận</Name>
+						<RequirementSentences>SMS_RECEIVER_REQUIRED</RequirementSentences>
+						<IsRequired>true</IsRequired>
+					</Parameter>
+					<Parameter>
+						<Key>CONTENT</Key>
+						<Name>Nội dung tin nhắn</Name>
+						<RequirementSentences>SMS_CONTENT_REQUIRED</RequirementSentences>
+						<IsRequired>true</IsRequired>
+					</Parameter>
+				</Parameters>
+				<ConfirmSentences>SMS_SEND_CONFIRM</ConfirmSentences>
+				<SuccessSentences>SMS_SEND_SUCCESS</SuccessSentences>
+				<ErrorSentences>SMS_SEND_ERROR</ErrorSentences>
+			</Function>
+			<Function>
+				<FunctionCode>READING_SMS</FunctionCode>
+				<Activity>com.mica.viva.controller.sms.ReadingSms</Activity>
+				<FunctionName>Đọc tin nhắn</FunctionName>
+				<Parameters>
+					<Parameter>
+						<Key>SENDER</Key>
+						<Name>Số điện thoại người gửi</Name>
+						<RequirementSentences>NONE</RequirementSentences>
+						<IsRequired>false</IsRequired>
+					</Parameter>
+					<Parameter>
+						<Key>CONTENT</Key>
+						<Name>Nội dung tin nhắn</Name>
+						<RequirementSentences>NONE</RequirementSentences>
+						<IsRequired>false</IsRequired>
+					</Parameter>
+				</Parameters>
+				<ConfirmSentences>SMS_READCONTENT_CONFIRM</ConfirmSentences>
+				<SuccessSentences>NONE</SuccessSentences>
+				<ErrorSentences>SMS_READCONTENT_ERROR</ErrorSentences>
+			</Function>
+		</Functions>
+	</Module>
+	<Module>
+		<ModuleCode>QUERYINFORMATION</ModuleCode>
+		<ModuleName>Truy vấn thông tin</ModuleName>
+		<Functions>
+			<Function>
+				<FunctionCode>WEATHER</FunctionCode>
+				<Activity>com.mica.viva.controller.queryinformation.Forecast</Activity>
+				<FunctionName>Thông tin thời tiết</FunctionName>
+				<Parameters>
+					<Parameter>
+						<Key>PLACE</Key>
+						<Name>Địa điểm</Name>
+						<RequirementSentences>NONE</RequirementSentences>
+						<IsRequired>false</IsRequired>
+					</Parameter>
+					<Parameter>
+						<Key>TIME</Key>
+						<Name>Thời gian</Name>
+						<RequirementSentences>NONE</RequirementSentences>
+						<IsRequired>false</IsRequired>
+					</Parameter>
+				</Parameters>
+				<ConfirmSentences>NONE</ConfirmSentences>
+				<SuccessSentences>NONE</SuccessSentences>
+				<ErrorSentences>WEATHER_GETINFO_ERROR</ErrorSentences>
+			</Function>
+			<Function>
+				<FunctionCode>GOLD</FunctionCode>
+				<Activity>com.mica.viva.controller.queryinformation.Gold</Activity>
+				<FunctionName>Thông tin giá vàng</FunctionName>
+				<Parameters>
+				</Parameters>
+				<ConfirmSentences>NONE</ConfirmSentences>
+				<SuccessSentences>NONE</SuccessSentences>
+				<ErrorSentences>GOLD_GETINFO_ERROR</ErrorSentences>
+			</Function>
+			<Function>
+				<FunctionCode>EXCHANGE</FunctionCode>
+				<Activity>com.mica.viva.controller.queryinformation.Exchange</Activity>
+				<FunctionName>Thông tin tỉ giá</FunctionName>
+				<Parameters>
+				</Parameters>
+				<ConfirmSentences>NONE</ConfirmSentences>
+				<SuccessSentences>NONE</SuccessSentences>
+				<ErrorSentences>EXCHANGE_GETINFO_ERROR</ErrorSentences>
+			</Function>
+		</Functions>
+	</Module>
+	<Module>
+		<ModuleCode>CONVERSATION</ModuleCode>
+		<ModuleName>Hội thoại</ModuleName>
+		<Functions>
+			<Function>
+				<FunctionCode>TALK</FunctionCode>
+				<Activity>com.mica.viva.controller.conversation.Talk</Activity>
+				<FunctionName>Trả lời hội thoại</FunctionName>
+				<Parameters>
+					<Parameter>
+						<Key>USER_SENTENCE</Key>
+						<Name>Câu nói của người dùng</Name>
+						<RequirementSentences>NONE</RequirementSentences>
+						<IsRequired>false</IsRequired>
+					</Parameter>
+				</Parameters>
+				<ConfirmSentences>NONE</ConfirmSentences>
+				<SuccessSentences>NONE</SuccessSentences>
+				<ErrorSentences>CANNOT_UNDERSTAND</ErrorSentences>
+			</Function>
+		</Functions>
+	</Module>
+</VIVAModules>

@@ -1,0 +1,11 @@
+#Wed May 22 09:53:47 ICT 2013
+eclipse.preferences.version=1
+encoding//src/com/mica/viva/MainActivity.java=UTF-8
+encoding//src/com/mica/viva/controller/BaseModuleController.java=UTF-8
+encoding//src/com/mica/viva/controller/InputController.java=UTF-8
+encoding//src/com/mica/viva/controller/queryinformation/Weather.java=UTF-8
+encoding//src/com/mica/viva/controller/sms/ReadingSms.java=UTF-8
+encoding//src/com/mica/viva/controller/sms/ReceivingSms.java=UTF-8
+encoding//src/com/mica/viva/controller/sms/SendingSms.java=UTF-8
+encoding//src/com/mica/viva/inputting/VADRecord.java=UTF-8
+encoding/<project>=UTF-8

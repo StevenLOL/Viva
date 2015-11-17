@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="first_category"
+        android:title="Thông tin Server" >
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/server"
+            android:entryValues="@array/server_value"
+            android:key="Client_address"
+            android:summary="Mạng kết nối"
+            android:title="Chọn mạng kết nối" />
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/ReadMessage"
+            android:entryValues="@array/ReadMessage_value"
+            android:key="Read_Message"
+            android:summary="Đọc phản hồi"
+            android:title="Bật tắt đọc phản hồi" />
+        
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/ReadReceiverMessage"
+            android:entryValues="@array/ReadReceiverMessage_value"
+            android:key="Read_Receiver_Message"
+            android:summary="Thông báo tin nhắn tới"
+            android:title="Đọc tin nhắn tới" />
+        
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,59 @@
+<class-diagram version="1.0.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <package id="1" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva" project="Viva" 
+    file="/Viva/src/com/mica/viva" binary="false">    
+    <position height="-1" width="-1" x="207" y="78"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="2" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.controller" project="Viva" 
+    file="/Viva/src/com/mica/viva/controller" binary="false">    
+    <position height="-1" width="-1" x="620" y="65"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="3" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.controller.conversation" project="Viva" 
+    file="/Viva/src/com/mica/viva/controller/conversation" binary="false">    
+    <position height="-1" width="-1" x="659" y="153"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="4" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.controller.queryinformation" project="Viva" 
+    file="/Viva/src/com/mica/viva/controller/queryinformation" binary="false">    
+    <position height="-1" width="-1" x="290" y="170"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="5" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.controller.sms" project="Viva" 
+    file="/Viva/src/com/mica/viva/controller/sms" binary="false">    
+    <position height="-1" width="-1" x="253" y="258"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="6" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.diacritic" project="Viva" 
+    file="/Viva/src/com/mica/viva/diacritic" binary="false">    
+    <position height="-1" width="-1" x="618" y="248"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="7" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.entity" project="Viva" 
+    file="/Viva/src/com/mica/viva/entity" binary="false">    
+    <position height="-1" width="-1" x="605" y="338"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="8" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.inputting" project="Viva" 
+    file="/Viva/src/com/mica/viva/inputting" binary="false">    
+    <position height="-1" width="-1" x="238" y="374"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="9" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.resource" project="Viva" 
+    file="/Viva/src/com/mica/viva/resource" binary="false">    
+    <position height="-1" width="-1" x="249" y="465"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="10" corner="BOTTOM_RIGHT" language="java" name="com.mica.viva.utility" project="Viva" 
+    file="/Viva/src/com/mica/viva/utility" binary="false">    
+    <position height="-1" width="-1" x="622" y="446"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
