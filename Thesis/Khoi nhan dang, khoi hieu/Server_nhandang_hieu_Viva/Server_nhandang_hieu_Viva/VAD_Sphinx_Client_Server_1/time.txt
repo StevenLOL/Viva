@@ -1,0 +1,28 @@
+﻿thứ hai
+thứ hai
+thứ ba
+thứ tư
+thứ năm
+thứ sáu
+thứ bảy
+chủ nhật
+tháng một
+hôm nay
+sáng nay
+chiều nay
+tối nay
+sáng mai
+trưa mai
+tối mai
+ngày mai
+chiều mai
+ngày kia
+ngày mốt
+sáng mốt
+chiều mốt
+trưa mốt
+tối mốt
+bây giờ
+mai
+mốt
+hôm qua

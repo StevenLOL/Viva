@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Sphinx4"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/batch.jar"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/js.jar"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="D:/Hien/Hoc tap/he cuoi n4/traitement de parole sur l&apos;android/Phat hien co hay ko co tieng noi/sphinx4/1.0beta6/src and bin/bin folder/sphinx4-1.0beta6/lib/tags.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/UnderstandingLibrary"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/maxent-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/opennlp-tools-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/trove.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/vn.hus.nlp.fsm-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/vn.hus.nlp.sd-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/vn.hus.nlp.tokenizer-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HienKa/Desktop/Understanding/lib/vn.hus.nlp.utils-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,100 @@
+﻿Nhắn tin@SENDING_SMS*SMS
+Cho tôi nhắn tin@SENDING_SMS*SMS
+Nhắn tin tới Hiếu@SENDING_SMS*SMS*RECEIVER*hiếu
+Mở mục tin nhắn@SENDING_SMS*SMS
+Nhắn tới số 01674657856@SENDING_SMS*SMS*RECEIVER*01674657856
+Nhắn tin tới Hiếu rằng tao bận@SENDING_SMS*SMS*RECEIVER*hiếu*CONTENT*tao bận 
+Nhắn tin cho Hiếu bảo tao sắp tới@SENDING_SMS*SMS*RECEIVER*hiếu*CONTENT*tao sắp tới 
+Tao muốn nhắn tin@SENDING_SMS*SMS
+Nhắn cho Hiếu@SENDING_SMS*SMS*RECEIVER*hiếu
+Chuẩn bị nhắn tin@SENDING_SMS*SMS
+Gửi tin nhắn cho Hiếu@SENDING_SMS*SMS*RECEIVER*hiếu
+Trả lời lại tin nhắn của Hiếu với nội dung@SENDING_SMS*SMS*RECEIVER*hiếu
+Thời tiết hôm nay thế nào mày@WEATHER*WEATHER*Time*hôm nay
+Sáng mai trời mưa không@WEATHER*WEATHER*Time*sáng mai
+Ngày kia trời thế nào@WEATHER*WEATHER*Time*ngày kia
+Thứ 2 thời tiết sao@WEATHER*WEATHER*Time*thứ 2
+Trời ngày mai thế nào@WEATHER*WEATHER*Time*ngày mai
+Thời tiết Đà Nẵng@WEATHER*WEATHER*Place*đà nẵng
+Trời Sài Gòn 2 ngày nữa@WEATHER*WEATHER*Place*sài gòn*Time*2 ngày nữa
+Cho xem thời tiết Nghệ An@WEATHER*WEATHER*Place*nghệ an
+Trời mưa không@WEATHER*WEATHER
+mai nắng to à@WEATHER*WEATHER*Time*mai
+Mở chương trình thời tiết@WEATHER*WEATHER
+Xem thời tiết@WEATHER*WEATHER
+Nằng mưa ra sao@WEATHER*WEATHER
+Thứ 6 trời mưa không@WEATHER*WEATHER*Time*thứ 6
+Mai đi cần dù không@WEATHER*WEATHER*Time*mai
+tôi muốn gửi tin nhắn@SENDING_SMS*SMS
+tôi muôn xem thông tin thời tiết@WEATHER*WEATHER
+thời tiết ngày mai ra sao@WEATHER*WEATHER*Time*ngày mai
+tôi muốn gửi tin nhắn tới số điện thoại 01674657846 với nội dung xin chào bạn@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*xin chào bạn 
+tôi muốn gửi tin nhắn đến số điện thoại 01674657846@SENDING_SMS*SMS*RECEIVER*01674657846
+tôi muốn gửi tin nhắn@SENDING_SMS*SMS
+gửi tin nhắn tới số điện thoại 01674657846 với nội dung là xin chào bạn@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*xin chào bạn 
+gửi tin nhắn đến số điện thoại 01674657846@SENDING_SMS*SMS*RECEIVER*01674657846
+gửi tới số điện thoại 01674657846 tin nhắn có nội dung là@SENDING_SMS*SMS*RECEIVER*01674657846
+gửi tin nhắn@SENDING_SMS*SMS
+giúp tôi gửi tin nhắn tới số thuê bao 01674657846 nội dung rằng@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*
+nhắn tin tới số 01674657846 ngay lập tức@SENDING_SMS*SMS*RECEIVER*01674657846
+nhắn tin đến số 01674657846@SENDING_SMS*SMS*RECEIVER*01674657846
+nhắn tin đến 01674657846 nội dung xin chào bạn@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*xin chào bạn 
+hãy gửi giúp tôi một tin nhắn đến số 01674657846 với nội dung là@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*
+nội dung tin nhắn@SENDING_SMS*SMS
+Thời tiết hôm nay thế nào@WEATHER*WEATHER*Time*hôm nay
+Trời hôm nay thế nào@WEATHER*WEATHER*Time*hôm nay
+Thời tiết có đẹp không@WEATHER*WEATHER
+Thời tiết@WEATHER*WEATHER
+Tôi có cần đem theo ô không@WEATHER*WEATHER
+Có cần ô không@WEATHER*WEATHER
+Thông tin thời tiết@WEATHER*WEATHER
+Trời hôm nay đẹp không@WEATHER*WEATHER*Time*hôm nay
+hôm nay có mưa không@WEATHER*WEATHER*Time*hôm nay
+Nhiệt độ bây giờ là bao nhiêu@WEATHER*WEATHER*Time*bây giờ
+Nhiệt độ ngoài trời là bao nhiêu@WEATHER*WEATHER
+Nhiệt độ@WEATHER*WEATHER
+Độ ẩm là bao nhiêu@WEATHER*WEATHER
+Độ ẩm @WEATHER*WEATHER
+Cho tôi thông tin về nhiệt độ@WEATHER*WEATHER
+Cho tôi thông tin thời tiết@WEATHER*WEATHER
+Cho tôi thông tin về độ ẩm@WEATHER*WEATHER
+Thời tiết tại Hà Nội như thế nào@WEATHER*WEATHER*Place*hà nội
+Cho tôi thông tin thời tiết tại hà nội@WEATHER*WEATHER*Place*hà nội
+hà nội trời có mưa không@WEATHER*WEATHER*Place*hà nội
+Độ ẩm tại hà nội là bao nhiêu@WEATHER*WEATHER*Place*hà nội
+Nhiệt độ tại hà nội là bao nhiêu@WEATHER*WEATHER*Place*hà nội
+Thời tiết hà nội@WEATHER*WEATHER*Place*hà nội
+Độ ẩm hà nội@WEATHER*WEATHER*Place*hà nội
+Nhiệt độ hà nội@WEATHER*WEATHER*Place*hà nội
+Tôi có cần ô khi ra hà nội không@WEATHER*WEATHER*Place*hà nội
+Ngày mai thời tiết ra sao@WEATHER*WEATHER*Time*ngày mai
+Thời tiết ngày mai như thế nào@WEATHER*WEATHER*Time*ngày mai
+Cho tôi thông tin thời tiết ngày mai@WEATHER*WEATHER*Time*ngày mai
+Ngày mai trời có mưa không@WEATHER*WEATHER*Time*ngày mai
+Ngày mai tôi có cần mang theo ô không@WEATHER*WEATHER*Time*ngày mai
+Thứ hai thời tiết ra sao@WEATHER*WEATHER*Time*thứ hai
+Thời tiết ngày thứ ba như thế nào@WEATHER*WEATHER*Time*thứ ba
+Cho tôi thông tin thời tiết ngày thứ hai@WEATHER*WEATHER*Time*thứ hai
+Thứ hai trời có mưa không@WEATHER*WEATHER*Time*thứ hai
+Thứ hai tôi có cần mang theo ô không@WEATHER*WEATHER*Time*thứ hai
+Ngày mai thời tiết hà nội ra sao@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Thời tiết ngày mai tại hà nội như thế nào@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Cho tôi thông tin thời tiết ngày mai tại hà nội@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Ngày mai tại hà nội trời có mưa không@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Ngày mai tại hà nội tôi có cần mang theo ô không@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Thứ hai thời tiết tại hà nội ra sao@WEATHER*WEATHER*Time*thứ hai*Place*hà nội
+Thời tiết tại hà nội ngày thứ hai như thế nào@WEATHER*WEATHER*Place*hà nội*Time*thứ hai
+Cho tôi thông tin thời tiết tại hà nội ngày thứ hai@WEATHER*WEATHER*Place*hà nội*Time*thứ hai
+Thứ hai trời tại hà nội có mưa không@WEATHER*WEATHER*Time*thứ hai*Place*hà nội
+Thứ hai tại hà nội tôi có cần mang theo ô không@WEATHER*WEATHER*Time*thứ hai*Place*hà nội
+chủ nhật tuần này mưa không@WEATHER*WEATHER*Time*chủ nhật
+Nghệ An hôm nay thời tiết thế nào@WEATHER*WEATHER*Place*nghệ an*Time*hôm nay
+ngày mai đi hà nội có cần ô không@WEATHER*WEATHER*Time*ngày mai*Place*hà nội
+Huế thứ 5 thời tiết thế nào@WEATHER*WEATHER*Place*huế*Time*thứ 5
+nhắn tin cho Hưng cái@SENDING_SMS*SMS*RECEIVER*hưng
+gửi tin nhắn bảo Hưng đi trước đi@SENDING_SMS*SMS*CONTENT*hưng đi trước đi 
+soạn tin với nội dung tao không biết@SENDING_SMS*SMS*CONTENT*tao không biết 
+nhắn tin cho số 01674657846 bảo không đi à@SENDING_SMS*SMS*RECEIVER*01674657846*CONTENT*không đi à 
+soạn tin nhắn mày sao rồi@SENDING_SMS*SMS*CONTENT*mày sao rồi 
+bạn hãy đọc nội dung tin nhắn@SENDING_SMS*SMS
+nhắn tin konichiha cho anh hiếu@SENDING_SMS*SMS*RECEIVER*hiếu*CONTENT*konichiha 
